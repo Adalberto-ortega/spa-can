@@ -1,0 +1,113 @@
+
+.banner
+{
+    
+    background-repeat: no-repeat;
+
+    margin-right: 20px;
+
+    background-image:  url(imagenes/fondocreo.jpg);
+    background-size: 30px;
+    background-size: 50%;
+    background-size: auto 50px;
+    background-size: auto 50%;
+    height: 30%;
+
+
+    
+
+}
+
+body 
+{
+  background-color:black;
+
+}
+h1
+{
+    margin-top: 70px;
+    font-size: 20px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    background: black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: white;
+    color: black;
+  }
+
+
+
+article
+{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    float: left;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color:springgreen;
+    
+    padding-bottom: 8px;
+    background: url(imagenes/imagen4.jpg);
+    
+    background-size: auto;
+    background-position: center;
+    
+    width: 95%;
+    height: 400px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 0px;
+   margin-bottom: 10px;
+   background: url(imagenes/body.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  font-size: 25px;
+}
+
+article p
+{
+    
+    margin-left: 30px;
+}
+body{
+  color:black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: url(imagenes/body.png);
+  background-repeat: no-repeat;
+  background-size: 150%;
+  
+  padding: 20px;
+  margin-right: 20px;
+}
+  
+ img{
+   float: left;
+ }
